@@ -1,0 +1,57 @@
+.header {
+    background-color: aqua;
+    height: 100px;
+}
+
+.menu {
+    padding: 20px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.banner {
+    background-color: rgb(98, 192, 11);
+    height: 300px;
+    text-align: center;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+}
+
+.form {
+    background-color: rgb(74, 11, 192);
+    height: 300px;
+    width: 50%;
+    float: left;
+    color: white;
+    padding: 10px;
+}
+
+.image {
+    background-color: rgb(192, 47, 11);
+    height: 300px;
+    width: 25%;
+    float: left;
+    color: white;
+    padding: 10px;
+}
+
+.text {
+    background-color: rgb(192, 174, 11);
+    height: 300px;
+    width: 25%;
+    float: left;
+    color: black;
+    padding: 10px;
+}
+
+.footer {
+    background-color: rgb(43, 39, 7);
+    height: 100px;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    clear: both;
+}
